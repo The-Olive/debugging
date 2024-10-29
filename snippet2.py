@@ -1,3 +1,4 @@
 def findTotal(a):
-    for i in a
-    print(sum(i)*2)
+    for i in a:
+        print(sum(i)*2)
+print(findTotal)
